@@ -1,7 +1,7 @@
 # mageCalendar
- This helps you to add Calendar to you iOS application.
-  It has many features including:-
-    1. Returns selected date.
+ This helps you to add Calendar to you iOS application. 
+ It has many features including:- 
+    1. Returns selected date. 
     2. It allows multiple date selection.
     3. It is compatible in dark mode too.
     4. User can change colors accordingly.
