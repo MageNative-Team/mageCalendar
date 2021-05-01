@@ -1,6 +1,6 @@
 # mageCalendar
 This helps you to add Calendar to you iOS application.
-   It has many features including :-
+It has many features including:-
    
    =>  Returns selected date.
    =>  It allows multiple date selection.
