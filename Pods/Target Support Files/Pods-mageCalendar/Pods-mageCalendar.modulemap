@@ -1,0 +1,6 @@
+module Pods_mageCalendar {
+  umbrella header "Pods-mageCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}
