@@ -2,7 +2,7 @@
 This helps you to add Calendar to you iOS application.
    It has many features including :-
    
-   =>  Returns selected date  
+   =>  Returns selected date.
    =>  It allows multiple date selection.
    =>  It is compatible in dark mode too.
    =>  User can change colors accordingly.
