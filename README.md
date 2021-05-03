@@ -39,12 +39,10 @@
  
 # Demo
 
-![simulator_screenshot_11BAB0CC-2C85-4429-9945-F859D808695A](https://user-images.githubusercontent.com/80674774/116851772-ab666200-ac10-11eb-91f0-a00da6fdf642.png)
+![Screenshot 2021-05-03 at 1 14 16 PM](https://user-images.githubusercontent.com/80674774/116852178-77d80780-ac11-11eb-9eed-8064bbc67c69.png)
 
-![simulator_screenshot_0AA9ED83-CDFB-4C01-B04A-8206E498F2F8](https://user-images.githubusercontent.com/80674774/116851843-d0f36b80-ac10-11eb-9001-80da36857ade.png)
+![Screenshot 2021-05-03 at 1 14 41 PM](https://user-images.githubusercontent.com/80674774/116852211-86262380-ac11-11eb-95fa-24462475dd51.png)
 
+![Screenshot 2021-05-03 at 1 14 56 PM](https://user-images.githubusercontent.com/80674774/116852232-8faf8b80-ac11-11eb-86b3-8b788282edcd.png)
 
-![simulator_screenshot_5F67CC9E-B1B9-44F2-B34E-F08A1206FC6D](https://user-images.githubusercontent.com/80674774/116851805-ba4d1480-ac10-11eb-8a6e-921406e5c983.png)
-
-
-![simulator_screenshot_101070A6-96B3-4821-80FC-1F11897E8EA4](https://user-images.githubusercontent.com/80674774/116851820-c33de600-ac10-11eb-889f-ff967dc4860c.png)
+![Screenshot 2021-05-03 at 1 15 13 PM](https://user-images.githubusercontent.com/80674774/116852254-99d18a00-ac11-11eb-9b9f-2c2c6a962f4e.png)
