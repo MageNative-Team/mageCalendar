@@ -30,7 +30,7 @@
                 let date = dateFormat.date(from: "02-02-2012")
                 mageCalendar.calendar.minimumDate = date
                 mageCalendar.calendar.maximuDate = Date()
-                mageCalendar.calendar.selectionColor = yourFavouriteColor 
+                mageCalendar.calendar.selectionColor = yourFavouriteColor :)
 
             }
         }
@@ -39,10 +39,13 @@
  
 # Demo
 
-![Screenshot 2021-05-03 at 1 14 16 PM](https://user-images.githubusercontent.com/80674774/116852178-77d80780-ac11-11eb-9eed-8064bbc67c69.png)
+![Screenshot 2021-05-03 at 1 16 12 PM](https://user-images.githubusercontent.com/80674774/116852322-bc63a300-ac11-11eb-9abe-070bb415007b.png)
 
-![Screenshot 2021-05-03 at 1 14 41 PM](https://user-images.githubusercontent.com/80674774/116852211-86262380-ac11-11eb-95fa-24462475dd51.png)
 
-![Screenshot 2021-05-03 at 1 14 56 PM](https://user-images.githubusercontent.com/80674774/116852232-8faf8b80-ac11-11eb-86b3-8b788282edcd.png)
+![Screenshot 2021-05-03 at 1 16 33 PM](https://user-images.githubusercontent.com/80674774/116852347-c9809200-ac11-11eb-9648-58923c0af6ea.png)
 
-![Screenshot 2021-05-03 at 1 15 13 PM](https://user-images.githubusercontent.com/80674774/116852254-99d18a00-ac11-11eb-9b9f-2c2c6a962f4e.png)
+
+![Screenshot 2021-05-03 at 1 17 09 PM](https://user-images.githubusercontent.com/80674774/116852394-e026e900-ac11-11eb-9b0a-6b9de83357d1.png)
+
+
+![Screenshot 2021-05-03 at 1 16 48 PM](https://user-images.githubusercontent.com/80674774/116852366-d2716380-ac11-11eb-8197-3cbb7c05a4b2.png)
